@@ -1,10 +1,10 @@
-#  team-20
+# team-20
 
 # Team Members
-#Jax Alemu
-#Charlie
-#Brendan
-#Ojas
+Jax Alemu
+Charlie
+Brendan
+Ojas
 
 # Project Description
 
